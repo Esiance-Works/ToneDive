@@ -1,0 +1,7 @@
+title: ToneDive
+description: ToneDiveの公式情報、プライバシーポリシー、利用規約
+theme: jekyll-theme-minimal
+lang: ja-JP
+show_downloads: false
+exclude:
+  - UPLOAD-GUIDE.md
