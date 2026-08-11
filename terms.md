@@ -9,7 +9,7 @@ permalink: /terms
 **アプリ名:** ToneDive<br>
 **開発者:** Esiance Works  
 **最終更新日:** 2026-08-11  
-**公開URL:** https://esiance-works.github.io/tonedive/terms
+**公開URL:** https://esiance-works.github.io/ToneDive/terms
 
 ---
 
@@ -92,7 +92,7 @@ Pro機能の内容は、アプリ内およびGoogle Play上の表示に従いま
 
 本アプリにおける情報の取り扱いには、次のプライバシーポリシーが適用されます。
 
-https://esiance-works.github.io/tonedive/privacy-policy
+https://esiance-works.github.io/ToneDive/privacy-policy
 
 ## 第10条 提供の変更・中断・終了
 

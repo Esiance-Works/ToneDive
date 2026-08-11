@@ -6,9 +6,9 @@ ToneDiveは、ギターの押弦フォームからコード候補を調べ、練
 
 ## 公開ページ
 
-- [ToneDive 公式情報](https://esiance-works.github.io/tonedive/)
-- [プライバシーポリシー](https://esiance-works.github.io/tonedive/privacy-policy)
-- [利用規約](https://esiance-works.github.io/tonedive/terms)
+- [ToneDive 公式情報](https://esiance-works.github.io/ToneDive/)
+- [プライバシーポリシー](https://esiance-works.github.io/ToneDive/privacy-policy)
+- [利用規約](https://esiance-works.github.io/ToneDive/terms)
 
 ## 更新設定
 

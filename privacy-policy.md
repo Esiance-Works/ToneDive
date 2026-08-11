@@ -9,7 +9,7 @@ permalink: /privacy-policy
 **アプリ名:** ToneDive<br>
 **開発者:** Esiance Works  
 **最終更新日:** 2026-08-11  
-**公開URL:** https://esiance-works.github.io/tonedive/privacy-policy
+**公開URL:** https://esiance-works.github.io/ToneDive/privacy-policy
 
 ---
 
